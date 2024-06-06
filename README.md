@@ -113,5 +113,5 @@ Para el idioma en quechua:
 
 ## Autor
 
-- **Grissell**
+- **Grissell, Misael, Nicole, Diego**
 
