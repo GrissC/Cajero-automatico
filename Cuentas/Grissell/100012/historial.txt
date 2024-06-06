@@ -1,0 +1,4 @@
+Deposito,100.0
+Transferencia de salida,100.0
+Deposito,200.0
+Retiro,100.0

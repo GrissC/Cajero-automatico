@@ -1,0 +1,5 @@
+Transferencia de salida,696.0
+Transferencia de salida,826.0
+Retiro,478.0
+Deposito,200.0
+Transferencia de entrada,1000.0

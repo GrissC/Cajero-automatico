@@ -1,0 +1,2 @@
+Retiro,10.0
+Transferencia de entrada,100.0
